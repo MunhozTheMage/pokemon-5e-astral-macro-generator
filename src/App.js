@@ -278,6 +278,7 @@ function App() {
                 <Autocomplete
                   {...moveType}
                   options={moveTypeOptions}
+                  disableClearable
                   renderInput={(params) => <TextField {...params} label="Type" variant="outlined" />}
                 />
               </Grid>
@@ -286,6 +287,7 @@ function App() {
                 <Autocomplete
                   {...movePower[0]}
                   options={movePowerOptions}
+                  disableClearable
                   getOptionDisabled={disableEqualMovePowers(movePower[1].value)}
                   renderInput={(params) => <TextField {...params} label="Move Power" variant="outlined" />}
                 />
@@ -298,6 +300,7 @@ function App() {
                   {...movePower[1]}
                   disabled={movePower[0].value === movePowerOptions[0]}
                   options={movePowerOptions}
+                  disableClearable
                   getOptionDisabled={disableEqualMovePowers(movePower[0].value)}
                   renderInput={(params) => <TextField {...params} label="Move Power" variant="outlined" />}
                 />
