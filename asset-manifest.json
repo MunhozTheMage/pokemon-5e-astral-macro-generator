@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pokemon-5e-astral-macro-generator/static/css/main.f5388c36.chunk.css",
-    "main.js": "/pokemon-5e-astral-macro-generator/static/js/main.f271ae6e.chunk.js",
-    "main.js.map": "/pokemon-5e-astral-macro-generator/static/js/main.f271ae6e.chunk.js.map",
+    "main.js": "/pokemon-5e-astral-macro-generator/static/js/main.62155711.chunk.js",
+    "main.js.map": "/pokemon-5e-astral-macro-generator/static/js/main.62155711.chunk.js.map",
     "runtime-main.js": "/pokemon-5e-astral-macro-generator/static/js/runtime-main.8ad70b5f.js",
     "runtime-main.js.map": "/pokemon-5e-astral-macro-generator/static/js/runtime-main.8ad70b5f.js.map",
     "static/js/2.d8dd5af6.chunk.js": "/pokemon-5e-astral-macro-generator/static/js/2.d8dd5af6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8ad70b5f.js",
     "static/js/2.d8dd5af6.chunk.js",
     "static/css/main.f5388c36.chunk.css",
-    "static/js/main.f271ae6e.chunk.js"
+    "static/js/main.62155711.chunk.js"
   ]
 }
